@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "online",
+      "script": "npm",
+      "args": "run start:prod",
+      "autorestart": true
+    }
+  ]
+}
